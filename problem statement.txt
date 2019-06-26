@@ -1,0 +1,18 @@
+Fabikram is a multinational company has 24 offices and they want to host 
+a information managagement solutions.
+They also want to host a internet website(which means that this website will 
+be hosted on the internet) so that every user can access who has done shopping using there website 
+they can give the feedback related to the shopping experience they had while using there website 
+and information related to the products they had in there website.
+The also want to host the intranet website (which means this website will be access only within 
+the compnay premises) to add the informaion  regarding leave of the employess through this website.
+This company has a amazon webservices cloud subscription so that they can host a  website 
+there for the hosting.
+
+Requirements:
+functional:
+- The company should have the AWS.
+- They should have employees to work upon this project.
+nonfunctional:
+- The company should have good amount of customers.
+- They should have good products to function there bussiness.
